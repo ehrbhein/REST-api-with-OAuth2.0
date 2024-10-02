@@ -12,6 +12,11 @@ The instructions are found on the official spring academy supported by broadcom.
 
 On the broadcom tutorial, the Laboratory exercises are marked by different commit on the repository's `main` branch. On this project, each laboratory exercise are differentiated by their own branch.
 
+### Spring security defaults
+
+Branch: `lab/spring-security-defaults`
+Context and instructions on [this site](https://spring.academy/courses/spring-academy-secure-rest-api-oauth2/lessons/spring-security-defaults/lab).
+
 
 ## Maintenance and contribution 🛠
 
