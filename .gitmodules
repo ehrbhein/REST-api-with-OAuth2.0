@@ -1,3 +1,3 @@
-[submodule "course-secure-rest-api-oauth2-code"]
-	path = course-secure-rest-api-oauth2-code
-	url = https://github.com/vmware-tanzu-learning/course-secure-rest-api-oauth2-code.git
+[submodule "fork-course-secure-rest-api-oauth2-code"]
+	path = fork-course-secure-rest-api-oauth2-code
+	url = https://github.com/ehrbhein/fork-course-secure-rest-api-oauth2-code.git
