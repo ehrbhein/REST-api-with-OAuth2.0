@@ -15,8 +15,12 @@ On the broadcom tutorial, the Laboratory exercises are marked by different commi
 ### Spring security defaults
 
 Branch: `lab/spring-security-defaults`
-Context and instructions on [this site](https://spring.academy/courses/spring-academy-secure-rest-api-oauth2/lessons/spring-security-defaults/lab).
+Context and instructions on [this site](https://spring.academy/courses/spring-academy-secure-rest-api-oauth2/lessons/spring-security-defaults).
 
+### Adding OAuth 2.0 Bearer JWT Authentication
+
+Branch: `lab/adding-oauth2-bearer-jwt-authentication`
+Context and instructions on [this site](https://spring.academy/courses/spring-academy-secure-rest-api-oauth2/lessons/adding-oauth-2-bearer-jwt-authentication).
 
 ## Maintenance and contribution 🛠
 
