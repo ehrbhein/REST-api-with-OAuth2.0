@@ -12,34 +12,17 @@ The instructions are found on the official spring academy supported by broadcom.
 
 On the broadcom tutorial, the Laboratory exercises are marked by different commit on the repository's `main` branch. On this project, each laboratory exercise are differentiated by their own branch.
 
-### Spring security defaults
-
-Branch: `lab/spring-security-defaults`
-
-Context and instructions on [this site](https://spring.academy/courses/spring-academy-secure-rest-api-oauth2/lessons/spring-security-defaults).
-
-### Adding OAuth 2.0 Bearer JWT Authentication
-
-Branch: `lab/adding-oauth2-bearer-jwt-authentication`
-
-Context and instructions on [this site](https://spring.academy/courses/spring-academy-secure-rest-api-oauth2/lessons/adding-oauth-2-bearer-jwt-authentication).
-
-### Accessing Authentication in Spring MVC
-
-Branch: `lab/accessing-authentication-spring-mvc`
-
-Context and instructions on [this site](https://spring.academy/courses/spring-academy-secure-rest-api-oauth2/lessons/accessing-authentication-in-spring-mvc-lab).
-
-## Maintenance and contribution 🛠
-
-Follow this format for adding new chapters and create a separate branch for each laboratory/chapter.
-
-```text
-### ${laboratory-chapter-name}
-
-Branch: ${branch-name}
-Context and instructions on [this site](https://link-to-site.com).
-```
+| Chapter/lab                            | Branch on submodule                           | Site to lab instructions                                                                                                                                       |
+|----------------------------------------|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Spring security defaults               | `lab/spring-security-defaults`                | https://spring.academy/courses/spring-academy-secure-rest-api-oauth2/lessons/spring-security-defaults                                                          |
+| Adding OAuth 2.0 Bearer JWT            | `lab/adding-oauth2-bearer-jwt-authentication` | https://spring.academy/courses/spring-academy-secure-rest-api-oauth2/lessons/adding-oauth-2-bearer-jwt-authentication                                          |
+| Accessing Authentication in Spring MVC | `lab/accessing-authentication-spring-mvc`     | https://spring.academy/courses/spring-academy-secure-rest-api-oauth2/lessons/accessing-authentication-in-spring-mvc-lab                                        |
+| Validating claims                      | ``lab/validate-claims``                       | https://spring.academy/courses/spring-academy-secure-rest-api-oauth2/lessons/spring-academy-secure-rest-api-oauth2-authentication-validate-audience-lab        |
+| Processing failure                     | `lab/processing-failure`                      | https://spring.academy/courses/spring-academy-secure-rest-api-oauth2/lessons/spring-academy-secure-rest-api-oauth2-authentication-processing-failures-lab      |
+| Adding request authorization           | `lab/add-request-authorization`               | https://spring.academy/courses/spring-academy-secure-rest-api-oauth2/lessons/spring-academy-secure-rest-api-oauth2-authorization-lab-add-request-authorization |
+| Adding method authorization            | `lab/add-method-authorization`                | https://spring.academy/courses/spring-academy-secure-rest-api-oauth2/lessons/spring-academy-secure-rest-api-oauth2-authorization-lab-add-method-authorization  |
+| Adding data authorization              | `lab/add-data-authorization`                  | https://spring.academy/courses/spring-academy-secure-rest-api-oauth2/lessons/spring-academy-secure-rest-api-oauth2-authorization-add-data-authorization        |
+| Connecting to an Authorization Server  | `lab/connecting-to-authorization-server`      | https://spring.academy/courses/spring-academy-secure-rest-api-oauth2/lessons/spring-academy-secure-rest-api-oauth2-authorization-lab-authorization-server      |
 
 ## Resources
 
