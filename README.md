@@ -48,3 +48,7 @@ Context and instructions on [this site](https://link-to-site.com).
 Tokens are used throughout the different lab exercise of the course. Having a copy of those token might come in handy when you try to simulate them on your local environment.
 
 The tokens are stored on [TOKENS.md file](./TOKENS.md).
+
+### Commands
+
+Throughout the course, different commands are utilized to demonstrate running servers and HTTP requests using `httpie`. Some commands are saved on [this file](./COMMANDS.md).
