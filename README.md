@@ -8,7 +8,7 @@ Clone this repository and change directory into `./course-secure-rest-api-oauth2
 
 ## Chapters and context 🔖
 
-The instructions are found on the official spring academy supported by broadcom. 
+The instructions are found on the official spring academy supported by broadcom.
 
 On the broadcom tutorial, the Laboratory exercises are marked by different commit on the repository's `main` branch. On this project, each laboratory exercise are differentiated by their own branch.
 
@@ -40,3 +40,11 @@ Follow this format for adding new chapters and create a separate branch for each
 Branch: ${branch-name}
 Context and instructions on [this site](https://link-to-site.com).
 ```
+
+## Resources
+
+### Tokens
+
+Tokens are used throughout the different lab exercise of the course. Having a copy of those token might come in handy when you try to simulate them on your local environment.
+
+The tokens are stored on [TOKENS.md file](./TOKENS.md).
